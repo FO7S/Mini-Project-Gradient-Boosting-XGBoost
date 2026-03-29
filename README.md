@@ -1,2 +1,2 @@
 # Mini-Project-Gradient-Boosting-XGBoost-
-Applying Gradient Boosting and XGBoost on the Video Game Sales dataset with EDA, data preprocessing, feature engineering, and model evaluation.
+Applying Gradient Boosting and XGBoost to predict gaming addiction risk levels using behavioral and mental health data, including EDA, data preprocessing, feature engineering, and model evaluation.
